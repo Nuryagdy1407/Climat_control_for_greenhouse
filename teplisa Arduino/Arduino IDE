@@ -1,0 +1,30 @@
+//Toprak sensor;
+#define SensorPin A0 
+float sensorValue = 0; 
+
+//dht sensor;
+#include <DHT.h>
+#define DHT_PIN 3
+#define DHTTYPE DHT22
+DHT dht(DHT_PIN,DHTTYPE);
+
+{ 
+ Serial.begin(9600); 
+ dht.begin();
+} 
+void loop() 
+{ 
+    //toprak sensor
+    sensorValue = analogRead(SensorPin);  
+    sensorValue = sensorValue; 
+
+    //DHT sensor;
+    float h=dht.readHumidity();
+    float t=dht.readTemperature();
+    if(isnan(h) || isnan(t))
+    {
+      
+    }
+    Serial.println(String(t)+","+String(h)+","+String(sensorValue)); 
+    delay(1000); 
+} 
