@@ -1,0 +1,77 @@
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\bin\Debug\LedControl.exe.config
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\bin\Debug\LedControl.exe
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\bin\Debug\LedControl.pdb
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\obj\Debug\LedControl.csprojResolveAssemblyReference.cache
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\obj\Debug\LedControl.csproj.GenerateResource.Cache
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\obj\Debug\LedControl.exe
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\obj\Debug\LedControl.pdb
+c:\users\bbs\documents\visual studio 2012\Projects\LedControl\LedControl\obj\Debug\LedControl.Form1.resources
+C:\Users\BBS\Desktop\c#-arduino\Examples\2.LedControl ( Arduino + c# )\LedControl\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\BBS\Desktop\c#-arduino\Examples\2.LedControl ( Arduino + c# )\LedControl\LedControl\obj\Debug\LedControl.exe
+C:\Users\BBS\Desktop\c#-arduino\Examples\2.LedControl ( Arduino + c# )\LedControl\LedControl\obj\Debug\LedControl.pdb
+C:\Users\BBS\Desktop\LedControl c#\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\BBS\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.exe
+C:\Users\BBS\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.pdb
+C:\Users\BBS\Desktop\LedControl c#\LedControl\bin\Debug\LedControl.exe
+C:\Users\BBS\Desktop\LedControl c#\LedControl\bin\Debug\LedControl.pdb
+C:\Users\BBS\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.csprojResolveAssemblyReference.cache
+C:\Users\BBS\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.Form1.resources
+C:\Users\BBS\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+C:\Users\BBS\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.csproj.GenerateResource.Cache
+C:\Users\BBS\Desktop\c#-arduino\Examples\LedControl c#\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\BBS\Desktop\c#-arduino\Examples\LedControl c#\LedControl\obj\Debug\LedControl.exe
+C:\Users\BBS\Desktop\c#-arduino\Examples\LedControl c#\LedControl\obj\Debug\LedControl.pdb
+C:\Users\BBS\Desktop\c#-arduino\Examples\4.DHT22Control ( Arduino + C# )\LedControl c#\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\BBS\Desktop\c#-arduino\Examples\4.DHT22Control ( Arduino + C# )\LedControl c#\LedControl\obj\Debug\LedControl.exe
+C:\Users\BBS\Desktop\c#-arduino\Examples\4.DHT22Control ( Arduino + C# )\LedControl c#\LedControl\obj\Debug\LedControl.pdb
+D:\Reseived\c#-arduino\Examples\4.DHT22Control ( Arduino + C# )\LedControl c#\LedControl\bin\Debug\LedControl.exe.config
+D:\Reseived\c#-arduino\Examples\4.DHT22Control ( Arduino + C# )\LedControl c#\LedControl\obj\Debug\LedControl.exe
+D:\Reseived\c#-arduino\Examples\4.DHT22Control ( Arduino + C# )\LedControl c#\LedControl\obj\Debug\LedControl.pdb
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.exe
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.pdb
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\bin\Debug\LedControl.exe
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\bin\Debug\LedControl.pdb
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.csprojResolveAssemblyReference.cache
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.Form1.resources
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+C:\Users\Bagtyyar\Desktop\LedControl c#\LedControl\obj\Debug\LedControl.csproj.GenerateResource.Cache
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.exe
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.pdb
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.csprojResolveAssemblyReference.cache
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.Form1.resources
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.csproj.GenerateResource.Cache
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\bin\Debug\LedControl.exe
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\bin\Debug\LedControl.pdb
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\bin\Debug\LedControl.exe.manifest
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\bin\Debug\LedControl.application
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.exe.manifest
+C:\Users\Bagtyyar\Documents\Visual Studio 2012\Projects\Teplisa\LedControl\obj\Debug\LedControl.application
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\bin\Debug\LedControl.exe.config
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.exe
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.pdb
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\bin\Debug\LedControl.exe.manifest
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\bin\Debug\LedControl.application
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\bin\Debug\LedControl.exe
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\bin\Debug\LedControl.pdb
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.csprojResolveAssemblyReference.cache
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.Form1.resources
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.csproj.GenerateResource.Cache
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.exe.manifest
+D:\Programms\Lectures\C#\Projects\31.Teplisa\LedControl\obj\Debug\LedControl.application
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\bin\Debug\LedControl.exe.config
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.exe
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.pdb
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\bin\Debug\LedControl.exe.manifest
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\bin\Debug\LedControl.application
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\bin\Debug\LedControl.exe
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\bin\Debug\LedControl.pdb
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.Form1.resources
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.Properties.Resources.resources
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.csproj.GenerateResource.Cache
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.exe.manifest
+C:\Users\Elon Musk\Desktop\Taslama\31.Teplisa\31.Teplisa\LedControl\obj\Debug\LedControl.application

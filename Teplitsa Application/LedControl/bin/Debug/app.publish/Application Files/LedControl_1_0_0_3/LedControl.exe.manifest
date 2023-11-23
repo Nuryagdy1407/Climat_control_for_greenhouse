@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LedControl.exe" version="1.0.0.3" publicKeyToken="11c861ec1accb35e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LedControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LedControl.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.5.3.dll" size="330752">
+      <assemblyIdentity name="Bunifu_UI_v1.5.3" version="1.5.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>duHT7JX973Srr5A5Ldb0ql40SSKr8R5XJwcofUZ/KTA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI.dll" size="1136808">
+      <assemblyIdentity name="Guna.UI" version="1.9.0.1" publicKeyToken="AD275B4BE6718D4B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V20t4snvW8Hqm91zro9AgAQmADfDtyIn7tJ+mVFmJ20=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI2.dll" size="1562792">
+      <assemblyIdentity name="Guna.UI2" version="2.0.0.3" publicKeyToken="AD275B4BE6718D4B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>z4mZ1zfmVUn1r12jcj5y2VQZBpnz1yzA/4Darqazs9g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LedControl.exe" size="40448">
+      <assemblyIdentity name="LedControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kVxi6U4ZcIRC5/SQcYvAhLvOACEQp8GZz24t7wsnfuw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LedControl.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-MRBM925\Bagtyyar" issuerKeyHash="306a29f6154340cbcc2bdebf958b8e7aab51091d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fRd4wun8fokEvGdexUdwqzyqhM/KgWGtUpgYyCDyOuI=</DigestValue></Reference></SignedInfo><SignatureValue>bn+kpD6RAhpYT6mm6c+xKDmLWebY+bvGHZ8KxPkObLL6/It3wOEVu7ZacWgTut7OS6TmnU2CHBA+bTub28ByfV/+YXKr9K7ukmMm6L0zaZE3BX8c+6kqzOw3Gl8Irt6eRvSowai479bYZvuq34dbB0g2kdlG/8BFeCQ5GgDDH5c=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nsRtz1Dwk5JCX3WlUaXOfssGAfgaGAU47OI4cTJKVILzyoQW9DX0RV6wFe258UhRybb16vNUO4oE4o+KXWOrHze00CoZ3skm3N0fc1R54x8lJeNSRbcZsFL8mhtATRy8vTo3a+lBuUBCGNllcyJOR8upnoIBYSgtQ3Cx0BEWv50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e23af220c8189852ad6181cacf84aa3cab7047c55e67bc04897efce9c278177d" Description="" Url=""><as:assemblyIdentity name="LedControl.exe" version="1.0.0.3" publicKeyToken="11c861ec1accb35e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-MRBM925\Bagtyyar</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1ryOWeFMosJj8lAAv6plIFMVH8MNh/DbWznXqr9ggEQ=</DigestValue></Reference></SignedInfo><SignatureValue>g30mckR+9TjkN/onOKN/o05N2VJaSGCF+d7dZPlLo0ZcUsHy0ga0IX/J62ZcXqill2khoDJR49zLgbxEXEdMVqpFy3MlHdwQDXqWqKcmSC49bNOysWCd94pkgLim4mh6vElpYAw/qriU3YcRVd1EYgoaIYPc9WRWgmoWs7Hz7M4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nsRtz1Dwk5JCX3WlUaXOfssGAfgaGAU47OI4cTJKVILzyoQW9DX0RV6wFe258UhRybb16vNUO4oE4o+KXWOrHze00CoZ3skm3N0fc1R54x8lJeNSRbcZsFL8mhtATRy8vTo3a+lBuUBCGNllcyJOR8upnoIBYSgtQ3Cx0BEWv50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQEZDk1T6btqBIMDo9AWLWQjANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAE0AUgBCAE0AOQAyADUAXABCAGEAZwB0AHkAeQBhAHIwHhcNMjIwMjEyMDgwNTIzWhcNMjMwMjEyMTQwNTIzWjA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAE0AUgBCAE0AOQAyADUAXABCAGEAZwB0AHkAeQBhAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ7Ebc9Q8JOSQl91pVGlzn7LBgH4GhgFOOziOHEySlSC88qEFvQ19EVesBXtufFIUcm29erzVDuKBOKPil1jqx83tNAqGd7JJtzdH3NUeeMfJSXjUkW3GbBS/JobQE0cvL06N2vpQblAQhjZZXMiTkfLqZ6CAWEoLUNwsdARFr+dAgMBAAEwDQYJKoZIhvcNAQELBQADgYEADVjNRagUDQeTny25DRUwnnzd2KhPM0bSoG2iYLtNhUdO27W1OYNImheXshxtloKMJvh0MSMUmJ9VPIhcvkOvrFgaNT6ssgBUAq5H78q8Fa3GSlrkQ7nFQtMCu34YZlU4A0nHVUxE9LeLXUoJCKZFveJJR7U+Ca6LvwBvfRacxv8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
